@@ -23,7 +23,7 @@
         <div class="container" align="center">
             <h2 class="brandJumbo"><span class="blue">Re</span>Car</h2><br>
             <span class="tex">Looking to rent a car?</span><br><br>
-            <button class="order" id="order" onmouseover="shine()" onmouseout="unshine()"><a href="index.php">Order Now!</a></button>
+            <button class="order" id="order" onmouseover="shine()" onmouseout="unshine()"><a href="form.php">Order Now!</a></button>
         </div>
     </div>
 
